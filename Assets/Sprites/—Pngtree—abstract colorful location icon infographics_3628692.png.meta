@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: 74e4231fbe427334cb773f7e64f99300
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 179809593928363801
+    second: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_0"
+  - first:
+      213: 7127530580781456046
+    second: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_1"
+  - first:
+      213: 3949397509744074056
+    second: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_2"
+  - first:
+      213: -8823567656135811990
+    second: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_3"
+  - first:
+      213: -6496182669388091614
+    second: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_4"
+  - first:
+      213: 9212449006449557037
+    second: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_5"
+  - first:
+      213: 7982861682886473730
+    second: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_6"
+  - first:
+      213: 6181865622163032323
+    second: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_7"
+  - first:
+      213: -1226771857210332515
+    second: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_8"
+  - first:
+      213: 7137149897016637132
+    second: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_9"
+  - first:
+      213: -2903407009836663920
+    second: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_10"
+  - first:
+      213: -5303980272221337401
+    second: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_11"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_0"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2767
+        width: 872
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e873ca815250141869fe40cd5d8618
+      internalID: 179809593928363801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_1"
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 2776
+        width: 715
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7080774f491ae02409f60212e91af4bf
+      internalID: 7127530580781456046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_2"
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 2767
+        width: 710
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c6b98dbbed7ea4e89f36dd4ad75ff1
+      internalID: 3949397509744074056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_3"
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 2758
+        width: 734
+        height: 1097
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777e3ad81b1580548b88709b873db668
+      internalID: -8823567656135811990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_4"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1522
+        width: 872
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f679a0e3f7f5dcb4ea9b6c894278ff33
+      internalID: -6496182669388091614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_5"
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1524
+        width: 714
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e23fc1324d6384c8e3167365964748
+      internalID: 9212449006449557037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_6"
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 1522
+        width: 710
+        height: 1084
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad126b1d45a40f245b0e23d65d9aa4f6
+      internalID: 7982861682886473730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_7"
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 1524
+        width: 732
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb1c0600d109c44a9ec1c6038e2e002
+      internalID: 6181865622163032323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_8"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 292
+        width: 872
+        height: 1099
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b2f3acd37650c4ca8c92679e5a2941
+      internalID: -1226771857210332515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_9"
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 285
+        width: 720
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69c130f9fd5d6d4f9008c079c993072
+      internalID: 7137149897016637132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_10"
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 285
+        width: 712
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3820eb1b148e9a47a8824df2c2fbd1a
+      internalID: -2903407009836663920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014abstract colorful location icon infographics_3628692_11"
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 285
+        width: 734
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d14055928d0d2042b1d8aca28571157
+      internalID: -5303980272221337401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ac5a1cc49db90fe479cf349acaec82e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
